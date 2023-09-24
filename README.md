@@ -1,2 +1,2 @@
 # k-means
-k-means algorythm implementation
+k-means algorithm implementation
