@@ -1,2 +1,2 @@
 # k-means
-This project is made for educational purposes.
+k-means algorythm implementation
